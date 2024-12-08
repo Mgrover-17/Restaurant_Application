@@ -12,13 +12,9 @@ const About = () => {
               <p>The only thing we&apos;re serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            Welcome to Chef&apos;s Table, where culinary excellence meets unparalleled hospitality. Our mission is to delight your senses with a fusion of flavors crafted from the freshest ingredients. Whether you're here for an intimate dinner or a special celebration, every meal is a memorable experience.
+Discover the ease of reserving your table directly on our website, ensuring your spot for an unforgettable dining adventure. At Chef's Table, we bring together exceptional taste and convenience, making every visit a culinary delight.
+We look forward to serving you soon!
             </p>
             <Link to={"/"}>
               Explore Menu{" "}

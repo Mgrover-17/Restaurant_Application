@@ -5,19 +5,19 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "We serve dishes made with the freshest ingredients, ensuring every bite is a burst of exquisite flavor" 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
                 "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "description": "Our each dish is crafted to perfection, bursting with flavors that will tantalize your taste buds and leave you craving for more." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
-                "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "title": "FAST RESERVATION",
+                "description": "Enjoy the convenience of fast and easy table reservations directly through our website, ensuring you can dine without the wait." 
             }
         ],
         "dishes": [
